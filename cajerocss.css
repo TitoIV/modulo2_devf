@@ -1,0 +1,15 @@
+#pass {
+width: 60%;
+margin: 0 auto;
+}
+#user {
+width: 60%;
+margin: 0 auto;
+}
+#btn {
+display: block;
+margin: 0 auto;
+}
+#btn-consulta{
+    width: 40%;
+}
